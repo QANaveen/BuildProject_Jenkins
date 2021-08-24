@@ -6,6 +6,7 @@ public class BuildProject {
 
 		System.out.println("Build project in jenkins");
 		System.out.println("Github code gets Build automatically");
+		Systemm.out.println("Hello world");
 		
 		
 	}
