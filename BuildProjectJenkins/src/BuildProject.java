@@ -10,6 +10,7 @@ public class BuildProject {
 		System.out.println("Automation");
 		System.out.println("Automation code 123");
 		System.out.println("Automation code 456");
+		System.out.println("Automation code 789");
 		
 	}
 
