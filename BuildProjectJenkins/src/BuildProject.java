@@ -8,7 +8,7 @@ public class BuildProject {
 		System.out.println("Github code gets Build automatically");
 		Systemm.out.println("Hello world");
 		System.out.println("Automation");
-		System.out.println("Automation123");
+		
 		
 	}
 
