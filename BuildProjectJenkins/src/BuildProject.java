@@ -8,10 +8,8 @@ public class BuildProject {
 		System.out.println("Github code gets Build automatically");
 		Systemm.out.println("Hello world");
 		System.out.println("Automation");
-		System.out.println("Automate");
 		
-		System.out.println("Automate1234");
-		
+		System.out.println("coding");
 	}
 
 }
