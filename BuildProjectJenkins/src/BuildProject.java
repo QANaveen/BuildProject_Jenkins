@@ -9,6 +9,7 @@ public class BuildProject {
 		Systemm.out.println("Hello world");
 		System.out.println("Automation");
 		System.out.println("Automation code 123");
+		System.out.println("Automation code 456");
 		
 	}
 
